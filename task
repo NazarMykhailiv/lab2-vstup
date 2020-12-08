@@ -4,7 +4,7 @@ while True:
     if a_or_b in ['a', 'b']:
         break
     else:
-        print('Please choose a or b. You have chosen something else')
+        print('Please choose a or b.Please enter english lower letters or you have chosen something else')
 
 if a_or_b == 'a':
     chars = {}
