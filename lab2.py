@@ -1,5 +1,5 @@
 while True:
-    print('choose a or b: \n\t a)Sort words by alphabet \n\t b)Count the number of letters.\nEnter "stop" if you want to exit ')
+    print('choose a or b: \n\t a)Sort words by alphabet \n\t b)Count the number of letters.\n Enter "stop" if you want to exit ')
 
     option = input()
 
